@@ -49,6 +49,7 @@ Open index.html in your browser.
 Customize text, images, or styles as desired.
 
 🌐 Live Preview
+ https://student-uettaxila.github.io/Barbers_landing_Page/
 
 Live Demo
 
